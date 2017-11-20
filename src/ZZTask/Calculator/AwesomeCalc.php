@@ -11,7 +11,7 @@ class AwesomeCalc
 
   public function add($a, $b)
   {
-  	return $a + $b;
+  	return $a + $b +1;
   }
 
   public function mul($a, $b)
